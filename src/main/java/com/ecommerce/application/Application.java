@@ -7,7 +7,6 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @EnableSwagger2
 @SpringBootApplication
-//@EnableMongoRepositories({ "com.ecommerce.application.repository" })
 public class Application {
 
 	public static void main(String[] args) throws Exception {
